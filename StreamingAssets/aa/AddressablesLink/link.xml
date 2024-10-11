@@ -4,6 +4,7 @@
     <type fullname="VVO.InGame.PlayerController" preserve="all" />
     <type fullname="VVO.InGame.ProductGeneratorController" preserve="all" />
     <type fullname="VVO.InGame.ProductGeneratorTrigger" preserve="all" />
+    <type fullname="VVO.InGame.SeatController" preserve="all" />
     <type fullname="VVO.InGame.StageController" preserve="all" />
     <type fullname="VVO.InGame.StickmanController" preserve="all" />
   </assembly>
@@ -40,6 +41,7 @@
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
   </assembly>
