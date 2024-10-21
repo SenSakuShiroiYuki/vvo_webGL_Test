@@ -1,6 +1,5 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="VVO.DoMoveUI" preserve="all" />
     <type fullname="VVO.InGame.GarbageCanController" preserve="all" />
     <type fullname="VVO.InGame.PlayerController" preserve="all" />
     <type fullname="VVO.InGame.ProductGeneratorController" preserve="all" />
@@ -8,12 +7,13 @@
     <type fullname="VVO.InGame.SeatController" preserve="all" />
     <type fullname="VVO.InGame.StageController" preserve="all" />
     <type fullname="VVO.InGame.StickmanController" preserve="all" />
-    <type fullname="VVO.InGame.TutorialController" preserve="all" />
+    <type fullname="VVO.InGame.UI.DoMoveUI" preserve="all" />
     <type fullname="VVO.InGame.UI.SeatCoolDownUI" preserve="all" />
     <type fullname="VVO.InGame.UI.SeatRequestGroupUI" preserve="all" />
     <type fullname="VVO.InGame.UI.SeatRequestUI" preserve="all" />
+    <type fullname="VVO.InGame.UI.TutorialController" preserve="all" />
     <type fullname="VVO.InGame.Unlock" preserve="all" />
-    <type fullname="VVO.InGame.TutorialTextValue" preserve="nothing" serialized="true" />
+    <type fullname="VVO.InGame.UI.TutorialTextValue" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
